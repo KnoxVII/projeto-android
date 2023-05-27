@@ -3,7 +3,7 @@
 <img src="https://github.com/KnoxVII/projeto-android/blob/main/imagens/tela.jpeg?raw=true" alt="Imagem do Mascote do Android">
 
 <h2>Descrição</h2>
-<p>Este projeto é um site estático que conta a história do mascote do Android, o sistema operacional mantido pelo Google. O site apresenta informações sobre a origem do mascote, sua evolução e curiosidades relacionadas. O projeto foi criado no capítulo 17 do curso de HTML e CSS do professor Gustavo Guanabara no Youtube.</p>
+<p>Este projeto é um site estático e totalmente responsivo que conta a história do mascote do Android, o sistema operacional mantido pelo Google. O site apresenta informações sobre a origem do mascote, sua evolução e curiosidades relacionadas. O projeto foi criado no capítulo 17 do curso de HTML e CSS do professor Gustavo Guanabara no Youtube.</p>
 
 <h2>Funcionalidades ✨</h2>
 
