@@ -29,7 +29,7 @@
 <h2>Acesse o projeto 📁</h2>
 <p>Você pode acessar o projeto final clicando aqui: https://knoxvii.github.io/projeto-android/</p>
 
-<p align="center"><img src="[https://github.com/KnoxVII/artflix/blob/main/images/home-gif.gif?raw=true](https://github.com/KnoxVII/projeto-android/blob/main/imagens/projeto-android_mobile.gif?raw=true)">
+<p align="center"><img src="https://github.com/KnoxVII/projeto-android/blob/main/imagens/projeto-android_mobile.gif?raw=true" alt="Animação do Projeto Android" width="250px">
 
 <h2>Como Executar o Projeto ▶️</h2>
 
